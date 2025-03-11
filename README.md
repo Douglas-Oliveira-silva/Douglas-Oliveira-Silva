@@ -2,8 +2,8 @@
 
 **`Desenvolvedor`**
 
-Me chamo Douglas Oliveira da Silva, tenho 30 anos e sou natural de Petrópolis. Sou um profissional extremamente motivado e comunicativo, sempre em busca de aprendizado contínuo. Minha paixão pela tecnologia se reflete na dedicação em explorar diversas tecnologias e plataformas para me tornar um profissional versátil e experiente.
-Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas e um MBA em Gestão de Tecnologia da Informação. Além disso, possuo experiência na gestão eficiente de projetos de TI. Atualmente, estou focado em Java e aprimorando minhas habilidades na área.
+Me chamo Douglas Oliveira da Silva, tenho 30 anos e sou natural de Petrópolis. Atualmente, estou em transição de carreira para a área de desenvolvimento, com foco em Java e, futuramente, AWS (cloud). Sou um profissional motivado e comunicativo, sempre em busca de aprendizado contínuo.
+Minha formação acadêmica inclui Análise e Desenvolvimento de Sistemas e um MBA em Gestão de Tecnologia da Informação. Estou aprofundando meus conhecimentos em programação e infraestrutura em nuvem para ampliar minhas habilidades e atuar de forma versátil no setor de tecnologia.
 
 
 ---
